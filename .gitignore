@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/photoview/build/
+/photoview/build/intermediates/javac/debug/classes/
+/sample/build/
+/sample/build/intermediates/javac/debug/classes/
